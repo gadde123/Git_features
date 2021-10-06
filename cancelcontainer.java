@@ -7,3 +7,5 @@ if(true)
         i did not like this at all
         }
 }
+
+new lines are addeed
